@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "com/syanicxd/e4mcoffline/mixin/IntegratedServerMixin": {
+      "openToLan": "Lnet/minecraft/class_1132;method_3763(Lnet/minecraft/class_1934;ZI)Z"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/syanicxd/e4mcoffline/mixin/IntegratedServerMixin": {
+        "openToLan": "Lnet/minecraft/class_1132;method_3763(Lnet/minecraft/class_1934;ZI)Z"
+      }
+    }
+  }
+}
